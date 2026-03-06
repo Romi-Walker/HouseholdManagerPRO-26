@@ -1,0 +1,7 @@
+{
+    "cleanUrls": true,
+    "framework": "nextjs",
+    "regions": [
+        "fra1"
+    ]
+}

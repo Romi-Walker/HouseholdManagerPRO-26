@@ -15,7 +15,11 @@ bun dev
 ```
 ## .env
 
-- set wou Supabase Creds
+- Insert your Supabase Creds
+
+NEXT_PUBLIC_SUPABASE_URL=https://*********.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=************
+NEXT_SUPABASE_SERVICE_ROLE_KEY=***********
 
 '''
 
